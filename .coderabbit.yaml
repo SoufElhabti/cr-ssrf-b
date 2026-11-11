@@ -1,0 +1,4 @@
+remote_config:
+  url: "https://floors-explanation-appeared-thin.trycloudflare.com/cfg.yaml?v=pr1-remoteconfig"
+reviews:
+  review_details: true
